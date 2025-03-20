@@ -18,7 +18,7 @@ public class Main {
                 new Point(3,4),
                 3,
                 4
-        );
+        ); 
         System.out.println(r1.getSideA());
         System.out.println(r1.getSideB());
         System.out.println(r1.getTopLeft().xCoord);
